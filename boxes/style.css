@@ -1,0 +1,39 @@
+.boxa {
+    width: 600px;
+    height: 400px;
+    border: 8px solid rgb(47, 111, 47);
+    padding: 55px;
+    margin: 100px;
+    margin-left: 100px;
+    padding-left: 30px;
+}
+.boxa .boxb{
+    width: 500px;
+    height: 200px;
+    border: 8px solid rgb(9, 29, 145);
+    padding: 40px;
+    margin-top: 50px;
+    right: 50px;
+    
+    
+    
+    
+    
+    
+}
+.boxa .boxb .boxc{
+    width: 400px;
+    height: 100px;
+    border: 8px solid ;
+    margin: 35px;
+   
+}
+boxa{
+    background-color: rgb(223, 39, 223);
+           width: 30px;
+           border: 8px solid #6b0a6b;
+           padding: 50px;
+           margin: 20px ;
+           margin-left: ;
+     }
+

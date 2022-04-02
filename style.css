@@ -1,15 +1,38 @@
+.Box1{
+    width: 500px;
+    height: 500px;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin: 400px;
+    position: relative;
+}
+.Box1 .Box2{
+    width: 300px;
+    height: 300px;
+    border: 5px solid brown;
+    border-radius: 10px;
+    position:absolute;
+   
+}
+.Box1 .Box2 .Box3{
+    width: 150px;
+    height: 150px;
+    border: 5px solid green;
+    border-radius: 10px;
+    margin-right: 200px;
+}
+div.Box2{
+    left: 50px;
+    position: absolute;
+    bottom: 100px;
+}
+div.Box3{
+    position: absolute;
+    left: 70px;
+    bottom: 70px;
+}
 h1{
-    border-style: solid;
-    border: width 2px;
-    border-color: black;
-    border-radius: 20px;
-    border: solid 2px black;
-    border-bottom: solid 10px black;
-    outline: solid green 10px;
-    padding: 10px;
-    padding-left: 30%;
-    padding: 10px 20px 22px 30px;
-    margin: 30%;
-    margin-left: 30%
-    margin: top -20%
+    color: green;
+    margin: 60px;
+    margin-left: 35px;
 }
